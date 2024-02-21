@@ -1,6 +1,6 @@
 ### Hi there, Im Héctor García 👋
 
-<p><em>Freelance Backend Developer<br>Bachelor of Computer Science & Computer Systems Analyst at <a href="https://www.famaf.unc.edu.ar/">FAMAF</a></br>Educator and Programming Area Coordinator at <a href="https://itr.edu.ar/">Instituto Técnico Renault</a><br>Programming Educator at <a href="#">ProA</a></em></p>
+<p><em>Freelance Backend Developer<br>Bachelor of Computer Science & Computer Systems Analyst at <a href="https://www.famaf.unc.edu.ar/">FAMAF</a></br>Educator and Programming Area Coordinator at <a href="https://itr.edu.ar/">Instituto Técnico Renault</a><br>Programming Educator at <a href="#">ProA</a><br>Born in the Patagonian city of Trelew - 🇦🇷 Argentina, currently living in Córdoba Capital</em></p>
 
 <img src="https://github.com/hectorgarciatw/hectorgarciatw/blob/main/git_banner.png?raw=true" alt="">
 
