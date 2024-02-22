@@ -13,6 +13,7 @@ Welcome to my GitHub profile. Currently, I am working on several Python projects
 
 <h2>💡 Learning some things</h2>
 <ul>
+<li>⌨️ Currently, I am developing a Python program to perform playlist migrations between different audio streaming services (such as Spotify, Tidal, Apple Music, Youtube Music, among others) 👀<a href="https://github.com/hectorgarciatw/playMigrate">Repository</a></li>
 <li>🌱 Learning <strong>Docker</strong> management to generate images and application contexts in different environments.</li>
 <li>📖 Currently, I am reading Eric Matths' book 'Python Crash Course' in its third edition</li> <a href="https://www.amazon.es/Python-Crash-Course-Eric-Matthes/dp/1593279280">Grab here</a>
 <li>💻 I regulary write articles on <a href="#">my personal blog (Currently undergoing maintenance)</a>.</li>
